@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\CS for dummies\RomanToArabic\bin\Debug\RomanToArabic.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\CS for dummies\RomanToArabic\bin\Debug\RomanToArabic.exe
+c:\users\ivan\documents\visual studio 2013\Projects\CS for dummies\RomanToArabic\bin\Debug\RomanToArabic.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\CS for dummies\RomanToArabic\obj\Debug\RomanToArabic.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\CS for dummies\RomanToArabic\obj\Debug\RomanToArabic.exe
+c:\users\ivan\documents\visual studio 2013\Projects\CS for dummies\RomanToArabic\obj\Debug\RomanToArabic.pdb
