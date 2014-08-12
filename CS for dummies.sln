@@ -5,7 +5,9 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToArabic", "RomanToArabic\RomanToArabic.csproj", "{37633D65-109E-46A8-A690-C4A63F801AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabitToRoman", "ArabitToRoman\ArabitToRoman.csproj", "{F277FC23-FF5B-4AEC-845D-235E8E6C5329}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabicToRoman", "ArabitToRoman\ArabicToRoman.csproj", "{F277FC23-FF5B-4AEC-845D-235E8E6C5329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 9 Solution 8", "Chapter 9 Solution 8\Chapter 9 Solution 8.csproj", "{5BCD0C55-E507-4FBF-AC52-3873E096BAC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F277FC23-FF5B-4AEC-845D-235E8E6C5329}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F277FC23-FF5B-4AEC-845D-235E8E6C5329}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F277FC23-FF5B-4AEC-845D-235E8E6C5329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCD0C55-E507-4FBF-AC52-3873E096BAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCD0C55-E507-4FBF-AC52-3873E096BAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCD0C55-E507-4FBF-AC52-3873E096BAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCD0C55-E507-4FBF-AC52-3873E096BAC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
