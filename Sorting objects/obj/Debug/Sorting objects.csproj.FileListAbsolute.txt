@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Sorting objects\bin\Debug\Sorting objects.exe.config
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Sorting objects\bin\Debug\Sorting objects.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Sorting objects\bin\Debug\Sorting objects.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Sorting objects\obj\Debug\Sorting objects.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Sorting objects\obj\Debug\Sorting objects.pdb

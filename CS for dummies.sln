@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 9 Solution 11", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 9 Solution 10", "Chapter 9 Solution 10\Chapter 9 Solution 10.csproj", "{6F8CB8A7-A23C-4BD2-A035-31CAF401DF49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting objects", "Sorting objects\Sorting objects.csproj", "{93ED4D6D-30CF-49A0-A9B7-A5F5D7CED99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6F8CB8A7-A23C-4BD2-A035-31CAF401DF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F8CB8A7-A23C-4BD2-A035-31CAF401DF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F8CB8A7-A23C-4BD2-A035-31CAF401DF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ED4D6D-30CF-49A0-A9B7-A5F5D7CED99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ED4D6D-30CF-49A0-A9B7-A5F5D7CED99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ED4D6D-30CF-49A0-A9B7-A5F5D7CED99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ED4D6D-30CF-49A0-A9B7-A5F5D7CED99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
