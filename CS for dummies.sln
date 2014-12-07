@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting objects", "Sorting 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 Solution 6", "Chapter 11 Solution 6\Chapter 11 Solution 6.csproj", "{46B33B45-7EEA-4157-94E5-983C04CA2EC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 Solution 8", "Chapter 11 Solution 7\Chapter 11 Solution 8.csproj", "{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{46B33B45-7EEA-4157-94E5-983C04CA2EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46B33B45-7EEA-4157-94E5-983C04CA2EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46B33B45-7EEA-4157-94E5-983C04CA2EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
