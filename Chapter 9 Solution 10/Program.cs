@@ -8,9 +8,8 @@ namespace Chapter_9_Solution_10
 {
     class Program
     {
-
-        static long Factorial(long number)
-        {
+        static double Factorial(double number)
+        {            
             if (number <= 1)
                 return 1;
             else
@@ -19,11 +18,10 @@ namespace Chapter_9_Solution_10
 
         static void Main(string[] args)
         {
-            for (int i = 0; i < 100; i++)
+            for (int i = 1; i < 101; i++)
             {
                 Console.WriteLine("{0}! = {1}", i, Factorial(i));              
             }
-
             Console.ReadLine();
         }
     }
