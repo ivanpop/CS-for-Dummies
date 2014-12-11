@@ -12,6 +12,8 @@ namespace Chapter_11_Solution_12
         public static bool change = false;
         public static double result = 0;
         public static double temp = 0;
+        public static byte depth = 0;
+        public static byte brakets = 0;
 
         public static void removeNulls()
         {
@@ -33,24 +35,24 @@ namespace Chapter_11_Solution_12
             }
             removeNulls();
 
-            do{
+            do
+            {
                 for (int i = 0; i < actions.Length; i++)
-                {   
+                {
                     if (i == 0)
                     {
                         if (actions[i] == "*" || actions[i] == "/")
-                        {                        
+                        {
                             if (actions[i] == "*") temp = Convert.ToDouble(numbers[0]) * Convert.ToDouble(numbers[1]);
                             else temp += Convert.ToDouble(numbers[0]) / Convert.ToDouble(numbers[1]);
                             numbers[0] = temp.ToString();
                             actions[i] = numbers[1] = null;
                             temp = 0;
                             removeNulls();
-                        }                    
+                        }
                     }
                     else
                     {
-                        int depth = 0;
                         do
                         {
                             if (actions[i] == "*" || actions[i] == "/")
@@ -94,17 +96,26 @@ namespace Chapter_11_Solution_12
                             else numbers[0] = (Convert.ToDouble(numbers[0]) - Convert.ToDouble(numbers[1])).ToString();                            
                             actions[i] = numbers[1] = null;
                             removeNulls();
+                            i--;
                         }                    
                     }
                     else
                     {
-                        if (actions[i] == "+" || actions[i] == "-")
+                        do
                         {
-                            if (actions[i] == "+") numbers[i] = (Convert.ToDouble(numbers[i]) + Convert.ToDouble(numbers[i + 1])).ToString();
-                            else numbers[i] = (Convert.ToDouble(numbers[i]) - Convert.ToDouble(numbers[i + 1])).ToString();                            
-                            actions[i] = numbers[i + 1] = null;
-                            removeNulls();
-                        }                    
+                            if (actions[i] == "+" || actions[i] == "-")
+                            {
+                                if (actions[i] == "+") numbers[i] = (Convert.ToDouble(numbers[i]) + Convert.ToDouble(numbers[i + 1])).ToString();
+                                else numbers[i] = (Convert.ToDouble(numbers[i]) - Convert.ToDouble(numbers[i + 1])).ToString();
+                                actions[i] = numbers[i + 1] = null;
+                                removeNulls();
+                                if (depth > 0) depth--;
+                            }
+                            foreach (var s in actions)
+                            {
+                                if (s == "+" || s == "-") depth++;
+                            }
+                        } while (depth != 0);
                     }
                 }
 
