@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 4 Solution 8\bin\Debug\Chapter 4 Solution 8.exe.config
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 4 Solution 8\bin\Debug\Chapter 4 Solution 8.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 4 Solution 8\bin\Debug\Chapter 4 Solution 8.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 4 Solution 8\obj\Debug\Chapter 4 Solution 8.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 4 Solution 8\obj\Debug\Chapter 4 Solution 8.pdb
