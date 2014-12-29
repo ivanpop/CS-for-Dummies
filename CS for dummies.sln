@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToArabic", "RomanToArabic\RomanToArabic.csproj", "{37633D65-109E-46A8-A690-C4A63F801AE9}"
 EndProject
@@ -76,6 +76,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 6 Solution 4", "Chapter 6 Solution 4\Chapter 6 Solution 4.csproj", "{857E6196-5EDC-4F1A-8F29-F9FF3A9270CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 6 Solution 5", "Chapter 6 Solution 5\Chapter 6 Solution 5.csproj", "{35AFD632-D18F-422C-A856-4FC11FFE80A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 6 Solution 7", "Chapter 6 Solution 7\Chapter 6 Solution 7.csproj", "{3E8E5988-B13C-43B0-9F70-36BC193DD1C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{35AFD632-D18F-422C-A856-4FC11FFE80A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35AFD632-D18F-422C-A856-4FC11FFE80A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35AFD632-D18F-422C-A856-4FC11FFE80A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8E5988-B13C-43B0-9F70-36BC193DD1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8E5988-B13C-43B0-9F70-36BC193DD1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8E5988-B13C-43B0-9F70-36BC193DD1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8E5988-B13C-43B0-9F70-36BC193DD1C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
