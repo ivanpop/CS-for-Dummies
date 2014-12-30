@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 6 Solution 18\bin\Debug\Chapter 6 Solution 18.exe.config
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 6 Solution 18\bin\Debug\Chapter 6 Solution 18.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 6 Solution 18\bin\Debug\Chapter 6 Solution 18.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 6 Solution 18\obj\Debug\Chapter 6 Solution 18.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 6 Solution 18\obj\Debug\Chapter 6 Solution 18.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 6 Solution 18\obj\Debug\Chapter 6 Solution 18.pdb
