@@ -14,8 +14,7 @@ namespace Chapter_7_Solution_5
             int length = Int32.Parse(Console.ReadLine());
 
             int[] arr = new int[length];
-            int sames = 1, bestSames = 1, lastElement = 0;
-            int[] arrOfBests = new int[length];
+            int sames = 1, bestSames = 1, bestStart = 0, lastElement = 0;
 
             for (int i = 0; i < arr.Length; i ++)
             {
@@ -32,24 +31,13 @@ namespace Chapter_7_Solution_5
                     {
                         bestSames = sames;
                         lastElement = i + 1;
+                        bestStart = lastElement - bestSames + 1;
                     }
                 }
                 else sames = 1;
             }
 
-            for (int i = lastElement - (bestSames - 1); i <= lastElement; i++)
-            {
-                arrOfBests[i] = arr[i];
-            }
-
-            Console.WriteLine("Maximal sequence increase is {0} elements long.", bestSames);
-            
-            for (int i = 0; i < lastElement; i++)
-            {
-                Console.WriteLine(arrOfBests[i]);
-            }
-
-            Console.ReadLine();
+            for (int i = bestStart; i < bestSames + bestStart; i++) Console.Write("{0}, ", arr[i]);
         }
     }
 }
