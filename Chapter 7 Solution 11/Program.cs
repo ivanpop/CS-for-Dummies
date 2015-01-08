@@ -10,34 +10,44 @@ namespace Chapter_7_Solution_11
     {
         static void Main(string[] args)
         {
-            int tempCount = 1, count = 1, number = 0;
+            int sum = 0, start = 0, end = 0;
+            bool sumFound = false;
+
+            Console.Write("Enter S: ");
+            int s = Int32.Parse(Console.ReadLine());
 
             Console.Write("Enter array length: ");
             int length = Int32.Parse(Console.ReadLine());
 
             int[] arr = new int[length];
-
+                        
             for (int i = 0; i < length; i++)
             {
                 Console.Write("Enter {0} element: ", i);
                 arr[i] = Int32.Parse(Console.ReadLine());
             }
-
-            Array.Sort(arr);
-
+            
             for (int i = 0; i < length - 1; i++)
             {
-                if (arr[i] == arr[i + 1]) tempCount++;
-                else tempCount = 1;
+                sum = arr[i];
 
-                if (tempCount > count)
+                for (int j = i + 1; j < length; j++)
                 {
-                    count = tempCount;
-                    number = arr[i];
+                    sum += arr[j];
+                    if (sum == s)
+                    {
+                        start = i;
+                        end = j;
+                        sumFound = true;
+                        break;
+                    }
                 }
+
+                if (sumFound) break;
             }
 
-            Console.WriteLine("Most frequent number is {0}. Found {1} times.", number, count);
+            if (sumFound) for (int i = start; i <= end; i++) Console.Write("{0},", arr[i]);
+            else Console.WriteLine("No sum found.");
         }
     }
 }
