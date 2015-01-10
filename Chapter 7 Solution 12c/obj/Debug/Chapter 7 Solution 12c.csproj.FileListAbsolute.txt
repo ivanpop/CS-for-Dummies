@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12c\bin\Debug\Chapter 7 Solution 12c.exe.config
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12c\bin\Debug\Chapter 7 Solution 12c.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12c\bin\Debug\Chapter 7 Solution 12c.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12c\obj\Debug\Chapter 7 Solution 12c.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12c\obj\Debug\Chapter 7 Solution 12c.pdb
