@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToArabic", "RomanToArabic\RomanToArabic.csproj", "{37633D65-109E-46A8-A690-C4A63F801AE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 8 Solution 11", "Chapter 8 Solution 11\Chapter 8 Solution 11.csproj", "{37633D65-109E-46A8-A690-C4A63F801AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabicToRoman", "ArabitToRoman\ArabicToRoman.csproj", "{F277FC23-FF5B-4AEC-845D-235E8E6C5329}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 8 Solution 12", "Chapter 8 Solution 12\Chapter 8 Solution 12.csproj", "{F277FC23-FF5B-4AEC-845D-235E8E6C5329}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 9 Solution 8", "Chapter 9 Solution 8\Chapter 9 Solution 8.csproj", "{5BCD0C55-E507-4FBF-AC52-3873E096BAC6}"
 EndProject

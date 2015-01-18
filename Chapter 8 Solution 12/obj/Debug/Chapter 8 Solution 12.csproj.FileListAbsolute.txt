@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.exe.config
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\ArabitToRoman.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\ArabitToRoman.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\Chapter 8 Solution 12.csprojResolveAssemblyReference.cache

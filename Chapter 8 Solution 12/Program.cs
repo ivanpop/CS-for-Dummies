@@ -10,16 +10,10 @@ namespace ArabitToRoman
     {
         static void Main(string[] args)
         {
-            int thousands = 0, hundreds = 0, tens = 0, ones = 0;
             String result = "";
             Console.Write("Enter Arabic number: ");
-            String s = Console.ReadLine();
-            int i = Convert.ToInt32(s);
-
-            thousands = i / 1000;
-            hundreds = (i / 100) % 10;
-            tens = (i / 10) % 10;
-            ones = i % 10;
+            int i = Convert.ToInt32(Console.ReadLine());
+            int thousands = i / 1000, hundreds = (i / 100) % 10, tens = (i / 10) % 10, ones = i % 10;
 
             switch (thousands)
             {
@@ -68,7 +62,6 @@ namespace ArabitToRoman
             }
 
             Console.WriteLine("Roman number is " + result);
-            Console.ReadLine(); 
         }
     }
 }
