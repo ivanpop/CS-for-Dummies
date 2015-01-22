@@ -3,3 +3,4 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 15\bin\Debug\Ch
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 15\bin\Debug\Chapter 3 Solution 15.pdb
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 15\obj\Debug\Chapter 3 Solution 15.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 15\obj\Debug\Chapter 3 Solution 15.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 15\obj\Debug\Chapter 3 Solution 15.csprojResolveAssemblyReference.cache

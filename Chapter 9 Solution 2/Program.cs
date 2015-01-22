@@ -8,6 +8,8 @@ namespace Chapter_9_Solution_2
 {
     class Program
     {
+        static int a;
+
         static void GetMax(int first, int second)
         {
             if (first > second) a = first;
@@ -19,9 +21,9 @@ namespace Chapter_9_Solution_2
             Console.Write("Enter first number: ");
             a = Int32.Parse(Console.ReadLine());
             Console.Write("Enter second number: ");
-            b = Int32.Parse(Console.ReadLine());
+            int b = Int32.Parse(Console.ReadLine());
             Console.Write("Enter third number: ");
-            c = Int32.Parse(Console.ReadLine());
+            int c = Int32.Parse(Console.ReadLine());
 
             GetMax(a, b);
             GetMax(a, c);

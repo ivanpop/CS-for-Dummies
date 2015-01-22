@@ -3,3 +3,4 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12d\bin\Debug\C
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12d\bin\Debug\Chapter 7 Solution 12d.pdb
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12d\obj\Debug\Chapter 7 Solution 12d.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12d\obj\Debug\Chapter 7 Solution 12d.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 12d\obj\Debug\Chapter 7 Solution 12d.csprojResolveAssemblyReference.cache
