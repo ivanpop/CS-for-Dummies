@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 3\bin\Debug\Chapter 10 Solution 3.exe.config
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 3\bin\Debug\Chapter 10 Solution 3.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 3\bin\Debug\Chapter 10 Solution 3.pdb
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 3\obj\Debug\Chapter 10 Solution 3.exe
+C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 3\obj\Debug\Chapter 10 Solution 3.pdb
