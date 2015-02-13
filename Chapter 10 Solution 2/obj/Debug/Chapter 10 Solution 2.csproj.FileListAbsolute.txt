@@ -3,3 +3,8 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Ch
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.pdb
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.pdb
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.exe.config
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.pdb
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.pdb

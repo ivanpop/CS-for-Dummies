@@ -19,13 +19,11 @@ namespace Chapter_10_Solution_2
                 Console.Write("), ");
             }
             else
-            {
                 for (int i = start; i <= end; i++)
                 {
                     arr[index] = i;
                     GetCombinations(arr, index + 1, i, end);
                 }
-            }
         }
 
         static void Main(string[] args)
