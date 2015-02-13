@@ -1,0 +1,6 @@
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 9\bin\Debug\Chapter 10 Solution 9.exe.config
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 9\bin\Debug\Chapter 10 Solution 9.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 9\bin\Debug\Chapter 10 Solution 9.pdb
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 9\obj\Debug\Chapter 10 Solution 9.csprojResolveAssemblyReference.cache
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 9\obj\Debug\Chapter 10 Solution 9.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 9\obj\Debug\Chapter 10 Solution 9.pdb
