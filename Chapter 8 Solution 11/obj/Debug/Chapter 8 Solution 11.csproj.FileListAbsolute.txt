@@ -4,3 +4,6 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\Ro
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.pdb
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\Chapter 8 Solution 11.csprojResolveAssemblyReference.cache
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.exe.config
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\RomanToArabic.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\RomanToArabic.pdb

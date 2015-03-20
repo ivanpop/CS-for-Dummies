@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting objects", "Sorting 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 Solution 6", "Chapter 11 Solution 6\Chapter 11 Solution 6.csproj", "{46B33B45-7EEA-4157-94E5-983C04CA2EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 Solution 8", "Chapter 11 Solution 7\Chapter 11 Solution 8.csproj", "{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 Solution 7 and 8", "Chapter 11 Solution 7\Chapter 11 Solution 7 and 8.csproj", "{E2A20FA7-0B0E-4EE3-BEE1-86A4AC7604B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 11 Solution 9", "Chapter 11 Solution 9\Chapter 11 Solution 9.csproj", "{5A1C8879-E2AC-4F18-B536-4FFFAB8838BE}"
 EndProject

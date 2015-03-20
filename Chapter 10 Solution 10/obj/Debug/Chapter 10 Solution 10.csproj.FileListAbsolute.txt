@@ -4,3 +4,9 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\C
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.csprojResolveAssemblyReference.cache
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.pdb
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.exe.config
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.pdb
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.exe
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.pdb
+C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.csprojResolveAssemblyReference.cache
