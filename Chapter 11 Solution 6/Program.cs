@@ -52,14 +52,12 @@ namespace Chapter_11_Solution_6
                 Console.WriteLine("4.Exit.");
                 Console.Write("Enter choice from 1 to 4: ");
                 choice = System.Convert.ToByte(Console.ReadLine());
+
                 switch (choice)
                 {
-                    case 1: byThreeSides();
-                        break;
-                    case 2: bySideAltitude();
-                        break;
-                    case 3: byTwoSidesAngle();
-                        break;
+                    case 1: byThreeSides(); break;
+                    case 2: bySideAltitude(); break;
+                    case 3: byTwoSidesAngle(); break;
                 }
 
             } while (choice != 4);

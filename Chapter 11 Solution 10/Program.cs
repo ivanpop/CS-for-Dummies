@@ -12,12 +12,9 @@ namespace Chapter_11_Solution_10
             string[] splitNumbers = inputNumbers.Split(' ');            
 
             for (int i = 0; i < splitNumbers.Length; i++)
-            {
                 result += Convert.ToInt32(splitNumbers[i]);
-            }
 
             Console.WriteLine("Result is: {0}", result);
-            Console.ReadLine();
         }
     }
 }

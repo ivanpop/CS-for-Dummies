@@ -37,24 +37,25 @@ namespace Chapter_11_Solution_9
             Console.Write("Enter end date (YYYY/MM/DD): ");
             DateTime endDate = System.Convert.ToDateTime(Console.ReadLine());
             DateTime now = DateTime.Now;
+
             do
             {
                 now = now.AddDays(1);
+
                 if((now.DayOfWeek >= DayOfWeek.Monday) && (now.DayOfWeek <= DayOfWeek.Friday))
-                workingDays++;
+                    workingDays++;
+
                 foreach (var i in holidays)
-                {
                     if (i.Date == now.Date)
                         workingDays--;
-                }
+
                 foreach (var i in workSaturdays)
-                {
                     if (i.Date == now.Date)
                         workingDays++;
-                }
+
             } while (now.Date != endDate.Date);
+
             Console.WriteLine("{0} working days.", workingDays);
-            Console.ReadLine();
         }
     }
 }
