@@ -177,6 +177,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 12 Solution 5", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 12 Solution 6", "Chapter 12 Solution 6\Chapter 12 Solution 6.csproj", "{BADDDCB5-AD8E-4BFF-ACA6-34459101E8BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 12 Solution 7", "Chapter 12 Solution 7\Chapter 12 Solution 7.csproj", "{438A057B-D5DD-46DC-A069-6424DB2B0B38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1057,6 +1059,16 @@ Global
 		{BADDDCB5-AD8E-4BFF-ACA6-34459101E8BC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{BADDDCB5-AD8E-4BFF-ACA6-34459101E8BC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{BADDDCB5-AD8E-4BFF-ACA6-34459101E8BC}.Release|Win32.ActiveCfg = Release|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{438A057B-D5DD-46DC-A069-6424DB2B0B38}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
