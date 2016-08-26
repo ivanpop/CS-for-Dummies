@@ -4,3 +4,6 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\bin\Debug\Ch
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\obj\Debug\Chapter 12 Solution 8.csprojResolveAssemblyReference.cache
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\obj\Debug\Chapter 12 Solution 8.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\obj\Debug\Chapter 12 Solution 8.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\bin\Debug\Chapter 12 Solution 8.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\obj\Debug\Chapter 12 Solution 8.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 12 Solution 8\obj\Debug\Chapter 12 Solution 8.pdb
