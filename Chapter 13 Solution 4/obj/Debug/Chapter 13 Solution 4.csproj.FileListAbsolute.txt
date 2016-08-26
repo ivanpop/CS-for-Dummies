@@ -1,0 +1,6 @@
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 4\bin\Debug\Chapter 13 Solution 4.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 4\bin\Debug\Chapter 13 Solution 4.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 4\bin\Debug\Chapter 13 Solution 4.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 4\obj\Debug\Chapter 13 Solution 4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 4\obj\Debug\Chapter 13 Solution 4.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 4\obj\Debug\Chapter 13 Solution 4.pdb
