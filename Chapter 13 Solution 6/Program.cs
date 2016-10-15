@@ -15,7 +15,6 @@ namespace Chapter_13_Solution_6
                 startUpCase = text.IndexOf("<upcase>", 0) + 8;
                 endUpCase = text.IndexOf("</upcase>", startUpCase);
                 insideTag = text.Substring(startUpCase, endUpCase - startUpCase).ToUpper();
-
                 text = text.Remove(startUpCase, endUpCase - startUpCase);
                 text = text.Insert(startUpCase, insideTag);
                 text = text.Remove(startUpCase - 8, 8);
