@@ -193,6 +193,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 7", "Ch
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 8", "Chapter 13 Solution 8\Chapter 13 Solution 8.xproj", "{2925E6C8-1BD4-40FA-A7B0-0B2DE0BD8BF8}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 9", "Chapter 13 Solution 9\Chapter 13 Solution 9.xproj", "{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1547,6 +1549,22 @@ Global
 		{2925E6C8-1BD4-40FA-A7B0-0B2DE0BD8BF8}.Release|Win32.Build.0 = Release|Any CPU
 		{2925E6C8-1BD4-40FA-A7B0-0B2DE0BD8BF8}.Release|x64.ActiveCfg = Release|Any CPU
 		{2925E6C8-1BD4-40FA-A7B0-0B2DE0BD8BF8}.Release|x64.Build.0 = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|Win32.Build.0 = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|Win32.ActiveCfg = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|Win32.Build.0 = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
