@@ -201,6 +201,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 11", "C
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 12", "Chapter 13 Solution 12\Chapter 13 Solution 12.xproj", "{4603BB06-1B3F-41E7-97BC-4F9447722EAE}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 13", "Chapter 13 Solution 13\Chapter 13 Solution 13.xproj", "{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1619,6 +1621,22 @@ Global
 		{4603BB06-1B3F-41E7-97BC-4F9447722EAE}.Release|Win32.Build.0 = Release|Any CPU
 		{4603BB06-1B3F-41E7-97BC-4F9447722EAE}.Release|x64.ActiveCfg = Release|Any CPU
 		{4603BB06-1B3F-41E7-97BC-4F9447722EAE}.Release|x64.Build.0 = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|Win32.Build.0 = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Debug|x64.Build.0 = Debug|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Win32.ActiveCfg = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Win32.Build.0 = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|x64.ActiveCfg = Release|Any CPU
+		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
