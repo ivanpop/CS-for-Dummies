@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Chapter_5_Solution_4
 {
@@ -24,13 +20,20 @@ namespace Chapter_5_Solution_4
                     a = a + c;
                     c = a - c;
                     a = a - c;
+
+                    if (b > c)
+                    {                        
+                        a = a + b;
+                        b = a - b;
+                        a = a - b;
+                    }
                 }
                 else if (a >= c)
                 {
                     a = a + b;
                     b = a - b;
                     a = a - b;
-                }                
+                }
             }
             else if (a == b)
             {
@@ -56,7 +59,8 @@ namespace Chapter_5_Solution_4
                     a = a - b;
                 }
             }
-            Console.WriteLine("{0}, {1}, {2}", a ,b ,c);
+            Console.WriteLine("{0}, {1}, {2}", a, b, c);
+            Console.ReadLine();
         }
     }
 }
