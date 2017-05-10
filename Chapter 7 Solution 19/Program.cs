@@ -22,8 +22,8 @@ namespace Chapter_7_Solution_19
         static void Main(string[] args)
         {
             List<int> nums = new List<int>();
-
-            for (int i = 1; i <= 10000000; ++i) nums.Add(i);
+              // 1 is not a prime number
+            for (int i = 2; i <= 10000000; ++i) nums.Add(i);
 
             int p = 2;
             int indexAt = 0;
