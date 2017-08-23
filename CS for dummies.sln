@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 14 for Web
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 8 Solution 11", "Chapter 8 Solution 11\Chapter 8 Solution 11.csproj", "{37633D65-109E-46A8-A690-C4A63F801AE9}"
 EndProject
@@ -187,21 +187,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 13 Solution 3", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 13 Solution 4", "Chapter 13 Solution 4\Chapter 13 Solution 4.csproj", "{D1BC506E-22BF-4A6A-AC65-4CB2946A285F}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 6", "Chapter 13 Solution 6\Chapter 13 Solution 6.xproj", "{E28F9A87-EA23-42DC-8B0C-651C4C0FE6A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 6", "Chapter 13 Solution 6\Chapter 13 Solution 6.csproj", "{E28F9A87-EA23-42DC-8B0C-651C4C0FE6A7}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 7", "Chapter 13 Solution 7\Chapter 13 Solution 7.xproj", "{42C8283A-24EC-48FE-945C-5F4AB27961FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 7", "Chapter 13 Solution 7\Chapter 13 Solution 7.csproj", "{42C8283A-24EC-48FE-945C-5F4AB27961FD}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 8", "Chapter 13 Solution 8\Chapter 13 Solution 8.xproj", "{2925E6C8-1BD4-40FA-A7B0-0B2DE0BD8BF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 8", "Chapter 13 Solution 8\Chapter 13 Solution 8.csproj", "{2925E6C8-1BD4-40FA-A7B0-0B2DE0BD8BF8}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 9", "Chapter 13 Solution 9\Chapter 13 Solution 9.xproj", "{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 9", "Chapter 13 Solution 9\Chapter 13 Solution 9.csproj", "{CF5CE48F-E709-442D-ACEC-29E5EB240B8D}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 10", "Chapter 13 Solution 10\Chapter 13 Solution 10.xproj", "{274F400F-FB5C-49B2-B3D7-C02D7A9C5D78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 10", "Chapter 13 Solution 10\Chapter 13 Solution 10.csproj", "{274F400F-FB5C-49B2-B3D7-C02D7A9C5D78}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 11", "Chapter 13 Solution 11\Chapter 13 Solution 11.xproj", "{D857F80F-1EAF-4699-B270-84AE3F42D27C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 11", "Chapter 13 Solution 11\Chapter 13 Solution 11.csproj", "{D857F80F-1EAF-4699-B270-84AE3F42D27C}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 12", "Chapter 13 Solution 12\Chapter 13 Solution 12.xproj", "{4603BB06-1B3F-41E7-97BC-4F9447722EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 12", "Chapter 13 Solution 12\Chapter 13 Solution 12.csproj", "{4603BB06-1B3F-41E7-97BC-4F9447722EAE}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter 13 Solution 13", "Chapter 13 Solution 13\Chapter 13 Solution 13.xproj", "{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 13", "Chapter 13 Solution 13\Chapter 13 Solution 13.csproj", "{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 13 Solution 14", "Chapter 13 Solution 14\Chapter 13 Solution 14.csproj", "{3B765C34-E9E7-4395-8CBB-305FB25B8551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1637,8 +1639,27 @@ Global
 		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|Win32.Build.0 = Release|Any CPU
 		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|x64.ActiveCfg = Release|Any CPU
 		{B3302F2F-BA4B-48A9-A499-7C0C0170C35B}.Release|x64.Build.0 = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|Win32.Build.0 = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Win32.ActiveCfg = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Win32.Build.0 = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F389AA-AE85-49E2-9DBD-7A11D12B3AFD}
 	EndGlobalSection
 EndGlobal
