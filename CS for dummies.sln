@@ -205,6 +205,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 13 Solution 13", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 13 Solution 14", "Chapter 13 Solution 14\Chapter 13 Solution 14.csproj", "{3B765C34-E9E7-4395-8CBB-305FB25B8551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 13 Solution 15", "Chapter 13 Solution 15\Chapter 13 Solution 15.csproj", "{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1655,6 +1657,22 @@ Global
 		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|Win32.Build.0 = Release|Any CPU
 		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|x64.ActiveCfg = Release|Any CPU
 		{3B765C34-E9E7-4395-8CBB-305FB25B8551}.Release|x64.Build.0 = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|Win32.Build.0 = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Debug|x64.Build.0 = Debug|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|Win32.ActiveCfg = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|Win32.Build.0 = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|x64.ActiveCfg = Release|Any CPU
+		{F45B8F7E-5DEF-427C-A91D-705D8CA57E43}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
