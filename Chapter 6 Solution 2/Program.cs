@@ -15,7 +15,7 @@ namespace Chapter_6_Solution_2
 
             for (int i = 1; i < length; i++)
             {
-                if (i % (3 * 7) != 0) Console.WriteLine(i);
+                if (i % (3 * 7) == 0) Console.WriteLine(i);
             }
         }
     }
