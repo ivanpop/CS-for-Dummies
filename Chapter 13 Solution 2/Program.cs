@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Linq;
+using System.Text;
 
 namespace Chapter_13_Solution_2
 {
@@ -9,8 +9,17 @@ namespace Chapter_13_Solution_2
         {
             Console.Write("Enter text to reverse: ");
             string input = Console.ReadLine();
-            string output = new string(input.ToCharArray().Reverse().ToArray());
-            Console.WriteLine("\"{0}\" reversed \"{1}\"", input, output);
+
+            StringBuilder sb = new StringBuilder();
+
+            for (int i = input.Length - 1; i >= 0; i--)
+            {
+                sb.Append(input[i]);
+            }
+
+            input = sb.ToString();
+
+            Console.WriteLine("Reversed: \"{0}\"", input);
             Console.ReadLine();
         }
     }
