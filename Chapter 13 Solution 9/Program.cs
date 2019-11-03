@@ -12,7 +12,7 @@ namespace Chapter_13_Solution_9
             string[] sentences = text.Split('.');
 
             foreach (string str in sentences)
-                if (str.Contains(" in ")) Console.WriteLine(str + '.');
+                if (str.IndexOf(" in ") != -1 || str.IndexOf("In ") != -1) Console.WriteLine(str + '.');
 
             Console.ReadLine();
         }
