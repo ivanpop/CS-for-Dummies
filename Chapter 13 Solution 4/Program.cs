@@ -6,10 +6,12 @@ namespace Chapter_13_Solution_4
     {
         static void Main(string[] args)
         {
-            string s = "one\two\three";
+            string s = @"one\two\three";
             string[] sArr = s.Split('\\');
             foreach (string word in sArr) Console.WriteLine(word);            
             Console.ReadLine();
         }
     }
 }
+
+// The answer is 2
