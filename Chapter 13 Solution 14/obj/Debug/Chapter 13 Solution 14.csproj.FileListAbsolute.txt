@@ -1,7 +1,0 @@
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\Chapter 13 Solution 14.exe.config
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\Chapter 13 Solution 14.exe
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\Chapter 13 Solution 14.pdb
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\Chapter 13 Solution 14.csproj.CoreCompileInputs.cache
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\Chapter 13 Solution 14.exe
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\Chapter 13 Solution 14.pdb
-C:\Users\ivanp\Documents\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\Chapter 13 Solution 14.csprojResolveAssemblyReference.cache

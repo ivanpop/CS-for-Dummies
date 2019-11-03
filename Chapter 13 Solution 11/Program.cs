@@ -1,10 +1,11 @@
-﻿using System;
+﻿
+using System;
 
 namespace Chapter_13_Solution_11
 {
     public class Program
     {
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.Write("Input number: ");
             int number = System.Convert.ToInt32(Console.ReadLine());

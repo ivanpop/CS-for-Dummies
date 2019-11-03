@@ -1,0 +1,10 @@
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\netcoreapp3.0\Chapter 13 Solution 14.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\netcoreapp3.0\Chapter 13 Solution 14.deps.json
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\netcoreapp3.0\Chapter 13 Solution 14.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\netcoreapp3.0\Chapter 13 Solution 14.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\netcoreapp3.0\Chapter 13 Solution 14.dll
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\bin\Debug\netcoreapp3.0\Chapter 13 Solution 14.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\netcoreapp3.0\Chapter 13 Solution 14.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\netcoreapp3.0\Chapter 13 Solution 14.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\netcoreapp3.0\Chapter 13 Solution 14.dll
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 14\obj\Debug\netcoreapp3.0\Chapter 13 Solution 14.pdb

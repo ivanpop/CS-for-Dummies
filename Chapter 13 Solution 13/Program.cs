@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Chapter_13_Solution_13
 {
@@ -11,7 +12,7 @@ namespace Chapter_13_Solution_13
             return new string(charArray);
         }
 
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
             string text = "C# is not C++ and PHP is not Delphi";
 
@@ -22,7 +23,7 @@ namespace Chapter_13_Solution_13
             text = "";
 
             foreach (string s in textArr) text += Reverse(s) + ' ';
-            
+
             Console.WriteLine(text);
             Console.ReadLine();
         }

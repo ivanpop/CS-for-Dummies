@@ -4,7 +4,7 @@ namespace Chapter_13_Solution_7
 {
     public class Program
     {
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.Write("Input text (20 char max): ");
             string text = Console.ReadLine();

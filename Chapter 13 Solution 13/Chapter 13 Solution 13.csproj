@@ -1,24 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>Chapter 13 Solution 13 Console Application</Description>
-    <Authors>ivanp</Authors>
-    <TargetFrameworks>dnx451;dnxcore50</TargetFrameworks>
-    <AssemblyName>Chapter 13 Solution 13</AssemblyName>
-    <PackageId>Chapter 13 Solution 13</PackageId>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Chapter_13_Solution_13</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup Condition=" '$(TargetFramework)' == 'dnx451' ">
-    <Reference Include="System" />
-    <Reference Include="Microsoft.CSharp" />
-  </ItemGroup>
-
-  <ItemGroup Condition=" '$(TargetFramework)' == 'dnxcore50' ">
-    <PackageReference Include="System.Collections" Version="4.0.11" />
-    <PackageReference Include="System.Console" Version="4.0.0" />
-    <PackageReference Include="System.Linq" Version="4.1.0" />
-    <PackageReference Include="System.Threading" Version="4.0.11" />
-    <PackageReference Include="Microsoft.CSharp" Version="4.0.1" />
-  </ItemGroup>
 
 </Project>

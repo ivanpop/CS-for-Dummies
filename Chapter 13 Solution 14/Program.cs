@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Chapter_13_Solution_14
 {
@@ -13,12 +14,12 @@ namespace Chapter_13_Solution_14
 
             Console.Write("Enter word: ");
             string input = Console.ReadLine() + " - ";
-                              
+
             foreach (string str in tempDictionary)
             {
                 if (str.Contains(input)) Console.WriteLine(str.Substring(input.Length));
             }
-                Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
