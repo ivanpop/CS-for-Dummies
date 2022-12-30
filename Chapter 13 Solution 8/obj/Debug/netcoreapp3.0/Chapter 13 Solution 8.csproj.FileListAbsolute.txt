@@ -8,4 +8,7 @@ C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\bin\Debug\ne
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\bin\Debug\netcoreapp3.0\Chapter 13 Solution 8.pdb
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.dll
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.pdb
-C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 8\obj\Debug\netcoreapp3.0\Chapter 13 Solution 8.genruntimeconfig.cache

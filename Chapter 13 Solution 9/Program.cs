@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace Chapter_13_Solution_9
 {
@@ -7,12 +6,18 @@ namespace Chapter_13_Solution_9
     {
         static void Main(string[] args)
         {
-            string text = "We are living in a yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
+            Console.Write("Input text: ");
+            string text = Console.ReadLine();
+            Console.Write("Input cipher: ");
+            string cipher = Console.ReadLine();
 
-            string[] sentences = text.Split('.');
+            for (int i = 0; i < text.Length; i++)
+            {
+                ushort textChar = text[i];
+                ushort cipherChar = cipher[i % cipher.Length];
 
-            foreach (string str in sentences)
-                if (str.IndexOf(" in ") != -1 || str.IndexOf("In ") != -1) Console.WriteLine(str + '.');
+                Console.Write("\\u{0:x4}", textChar ^ cipherChar);
+            }                
 
             Console.ReadLine();
         }

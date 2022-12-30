@@ -7,14 +7,17 @@ namespace Chapter_13_Solution_11
     {
         static void Main(string[] args)
         {
-            Console.Write("Input number: ");
-            int number = System.Convert.ToInt32(Console.ReadLine());
+            string text = "Microsoft announced its next generation C# compiler today. It uses advanced parser and special optimizer for the Microsoft CLR.", forbiddenWords = "C#,CLR,Microsoft";
+            string[] forbiddenWordsArr = forbiddenWords.Split(',');
+            string[] censoredForbiddenWordsArr = new string[forbiddenWordsArr.Length];
 
-            Console.WriteLine("{0, -15} {1, 15}", "Decimal:", number);
-            Console.WriteLine("{0, -15} {1, 15}", "Hexadecimal:", number.ToString("X"));
-            Console.WriteLine("{0, -15} {1, 15}", "Currency:", string.Format("{0:C}", number));
-            Console.WriteLine("{0, -15} {1, 15}", "Percent:", string.Format("{0:P2}", number));
-            Console.WriteLine("{0, -15} {1, 15}", "Scientific:", number.ToString("\\0.#####E0"));
+            for (int i = 0; i < forbiddenWordsArr.Length; i++)
+                censoredForbiddenWordsArr[i] = new string('*', forbiddenWordsArr[i].Length);
+
+            for (int i = 0; i < forbiddenWordsArr.Length; i++)
+                text = text.Replace(forbiddenWordsArr[i], censoredForbiddenWordsArr[i]);
+
+            Console.WriteLine(text);
             Console.ReadLine();
         }
     }

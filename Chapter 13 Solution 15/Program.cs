@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Chapter_13_Solution_15
 {
@@ -6,13 +7,29 @@ namespace Chapter_13_Solution_15
     {
         static void Main(string[] args)
         {
-            string text = "<p>Please visit <a href=\"http://softuni.bg\">our site</a> to choose a software engineering training course. Also visit<a href=\"http://softuni.bg" + "/forum\">our forum</a> to discuss the courses.</ p >";
-            text = text.Replace("<a href=\"", "[URL=");
-            text = text.Replace("\">", "]");
-            text = text.Replace("</a>", "[/URL]");
+            string text = ".NET - platform for applications from Microsoft\nCLR - managed execution environment for .NET\nnamespace - hierarchical organization of classes\n";
 
-            Console.WriteLine(text);
-            Console.ReadLine();
+            Dictionary<string, string> dictionary = new Dictionary<string, string>();
+
+            string[] textParsedByNewline = text.Split("\n", StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (var line in textParsedByNewline)
+            {
+                string[] keywordAndMeaning = line.Split(" - ");
+                dictionary.Add(keywordAndMeaning[0], keywordAndMeaning[1]);
+            }
+
+            Console.Write("Enter word: ");
+            string input = Console.ReadLine();
+
+            foreach (var item in dictionary)
+                if (item.Key == input)
+                {
+                    Console.WriteLine(item.Value);
+                    return;
+                }
+
+            Console.WriteLine($"Dictionary doesn't contain \"{input}\"");
         }
     }
 }

@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace Chapter_13_Solution_8
 {
@@ -9,7 +8,10 @@ namespace Chapter_13_Solution_8
         {
             Console.Write("Input text: ");
             string text = Console.ReadLine();
-            foreach (char c in text) Console.Write("\\u{0:x4}", ((int)c));
+
+            foreach (char c in text) 
+                Console.Write("\\u{0:x4}", ((int)c));
+
             Console.ReadLine();
         }
     }

@@ -1,24 +1,29 @@
-﻿
-using System;
+﻿using System;
 
 namespace Chapter_13_Solution_14
 {
     class Program
     {
+        public static string Reverse(string s)
+        {
+            char[] charArray = s.ToCharArray();
+            Array.Reverse(charArray);
+            return new string(charArray);
+        }
+
         static void Main(string[] args)
         {
-            string dictionary = ".NET - platform for applications from Microsoft\nCLR - managed execution environment for .NET\nnamespace - hierarchical organization of classes\n";
-            string[] tempDictionary = new string[10];
+            string text = "C# is not C++ and PHP is not Delphi";
 
-            tempDictionary = dictionary.Split(new string[] { "\n" }, StringSplitOptions.None);
+            text = Reverse(text);
 
-            Console.Write("Enter word: ");
-            string input = Console.ReadLine() + " - ";
+            string[] textArr = text.Split(' ');
 
-            foreach (string str in tempDictionary)
-            {
-                if (str.Contains(input)) Console.WriteLine(str.Substring(input.Length));
-            }
+            text = "";
+
+            foreach (string s in textArr) text += Reverse(s) + ' ';
+
+            Console.WriteLine(text);
             Console.ReadLine();
         }
     }

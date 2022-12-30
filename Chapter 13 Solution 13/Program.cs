@@ -5,26 +5,15 @@ namespace Chapter_13_Solution_13
 {
     public class Program
     {
-        public static string Reverse(string s)
-        {
-            char[] charArray = s.ToCharArray();
-            Array.Reverse(charArray);
-            return new string(charArray);
-        }
-
         static void Main(string[] args)
         {
-            string text = "C# is not C++ and PHP is not Delphi";
+            Console.Write("Input HTML: ");
+            string text = Console.ReadLine();
 
-            text = Reverse(text);
+            Console.WriteLine("[protocol] = \"{0}\"", text.Substring(0, text.IndexOf("://")));
+            Console.WriteLine("[server] = \"{0}\"", text.Substring(text.IndexOf("://") + 3).Split('/'));
+            Console.WriteLine("[resource] = \"{0}\"", text.Substring(text.IndexOf("://") + 3).Substring(text.Substring(text.IndexOf("://") + 3).IndexOf('/')));
 
-            string[] textArr = text.Split(' ');
-
-            text = "";
-
-            foreach (string s in textArr) text += Reverse(s) + ' ';
-
-            Console.WriteLine(text);
             Console.ReadLine();
         }
     }

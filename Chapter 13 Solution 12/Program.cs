@@ -6,13 +6,14 @@ namespace Chapter_13_Solution_12
     {
         static void Main(string[] args)
         {
-            Console.Write("Input HTML: ");
-            string text = Console.ReadLine();
+            Console.Write("Input number: ");
+            int number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("[protocol] = \"{0}\"", text.Substring(0, text.IndexOf("://")));
-            Console.WriteLine("[server] = \"{0}\"", text.Substring(text.IndexOf("://") + 3).Split('/'));
-            Console.WriteLine("[resource] = \"{0}\"", text.Substring(text.IndexOf("://") + 3).Substring(text.Substring(text.IndexOf("://") + 3).IndexOf('/')));
-
+            Console.WriteLine("{0, -15} {1, 15}", "Decimal:", number);
+            Console.WriteLine("{0, -15} {1, 15}", "Hexadecimal:", number.ToString("X"));
+            Console.WriteLine("{0, -15} {1, 15}", "Currency:", string.Format("{0:C}", number));
+            Console.WriteLine("{0, -15} {1, 15}", "Percent:", string.Format("{0:P2}", number));
+            Console.WriteLine("{0, -15} {1, 15}", "Scientific:", number.ToString("\\0.#####E0"));
             Console.ReadLine();
         }
     }

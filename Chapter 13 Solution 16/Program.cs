@@ -1,6 +1,4 @@
-﻿
-using System;
-using System.Globalization;
+﻿using System;
 
 namespace Chapter_13_Solution_16
 {
@@ -8,12 +6,12 @@ namespace Chapter_13_Solution_16
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter first date: ");
-            DateTime startDate = DateTime.ParseExact(Console.ReadLine(), "d.M.yyyy", CultureInfo.InvariantCulture);
-            Console.Write("Enter second date: ");
-            DateTime endDate = DateTime.ParseExact(Console.ReadLine(), "d.M.yyyy", CultureInfo.InvariantCulture); ;
+            string text = "<p>Please visit <a href=\"http://softuni.bg\">our site</a> to choose a software engineering training course. Also visit<a href=\"http://softuni.bg" + "/forum\">our forum</a> to discuss the courses.</ p >";
+            text = text.Replace("<a href=\"", "[URL=");
+            text = text.Replace("\">", "]");
+            text = text.Replace("</a>", "[/URL]");
 
-            Console.WriteLine("Distance: {0} days", endDate.Subtract(startDate).TotalDays);
+            Console.WriteLine(text);
             Console.ReadLine();
         }
     }

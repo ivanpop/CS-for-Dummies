@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace Chapter_13_Solution_10
 {
@@ -7,17 +6,13 @@ namespace Chapter_13_Solution_10
     {
         static void Main(string[] args)
         {
-            string text = "Microsoft announced its next generation C# compiler today. It uses advanced parser and special optimizer for the Microsoft CLR.", forbiddenWords = "C#,CLR,Microsoft";
-            string[] forbiddenWordsArr = forbiddenWords.Split(',');
-            string[] censoredForbiddenWordsArr = new string[forbiddenWordsArr.Length];
+            string text = "We are living in a yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
 
-            for (int i = 0; i < forbiddenWordsArr.Length; i++)
-                censoredForbiddenWordsArr[i] = new string('*', forbiddenWordsArr[i].Length);
+            string[] sentences = text.Split('.');
 
-            for (int i = 0; i < forbiddenWordsArr.Length; i++)
-                text = text.Replace(forbiddenWordsArr[i], censoredForbiddenWordsArr[i]);
+            foreach (string str in sentences)
+                if (str.IndexOf(" in ") != -1 || str.IndexOf("In ") != -1) Console.WriteLine(str + '.');
 
-            Console.WriteLine(text);
             Console.ReadLine();
         }
     }
