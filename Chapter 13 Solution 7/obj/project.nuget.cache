@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bru2a1Ia66BCa0cteYWRZ2lDjgcGB5qZv9gitrE+4X3Jc/YlS5quFWgiWGr+dUUY4K37/7dgANnWyFIgv66klg==",
+  "dgSpecHash": "cJXDv/4a+V0jnme02rivFjCQvm6FH1LGRNg9u0CHZUeYS1oFHxVd9qVW8v+K4OglBIphzxjtXyx/k8Moz2Ga9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\CS-for-Dummies\\Chapter 13 Solution 7\\Chapter 13 Solution 7.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
