@@ -7,6 +7,8 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Ch
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\bin\Debug\Chapter 3 Solution 11.exe.config
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\bin\Debug\Chapter 3 Solution 11.exe
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\bin\Debug\Chapter 3 Solution 11.pdb
-C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Chapter 3 Solution 11.csprojAssemblyReference.cache
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Chapter 3 Solution 11.exe
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Chapter 3 Solution 11.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Chapter 3 Solution 11.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Chapter 3 Solution 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 3 Solution 11\obj\Debug\Chapter 3 Solution 11.csproj.CoreCompileInputs.cache

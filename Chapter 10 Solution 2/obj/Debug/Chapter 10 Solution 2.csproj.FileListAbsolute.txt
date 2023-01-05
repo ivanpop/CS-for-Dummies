@@ -8,3 +8,11 @@ C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Cha
 C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.pdb
 C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.exe
 C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\bin\Debug\Chapter 10 Solution 2.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 2\obj\Debug\Chapter 10 Solution 2.pdb

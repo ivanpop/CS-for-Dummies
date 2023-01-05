@@ -3,4 +3,6 @@ C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\bin\Debug\Ch
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\bin\Debug\Chapter 13 Solution 3.pdb
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\obj\Debug\Chapter 13 Solution 3.exe
 C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\obj\Debug\Chapter 13 Solution 3.pdb
-C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\obj\Debug\Chapter 13 Solution 3.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\obj\Debug\Chapter 13 Solution 3.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\obj\Debug\Chapter 13 Solution 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 3\obj\Debug\Chapter 13 Solution 3.csproj.CoreCompileInputs.cache

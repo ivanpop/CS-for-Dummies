@@ -10,3 +10,11 @@ C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Ch
 C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.exe
 C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.pdb
 C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\bin\Debug\Chapter 10 Solution 10.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 10 Solution 10\obj\Debug\Chapter 10 Solution 10.pdb

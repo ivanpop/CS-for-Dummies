@@ -10,3 +10,11 @@ C:\Users\Mun\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\Rom
 C:\Users\ivanp\OneDrive\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.exe.config
 C:\Users\ivanp\OneDrive\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\RomanToArabic.exe
 C:\Users\ivanp\OneDrive\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\RomanToArabic.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\bin\Debug\RomanToArabic.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\Chapter 8 Solution 11.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\Chapter 8 Solution 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\Chapter 8 Solution 11.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\RomanToArabic.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 11\obj\Debug\RomanToArabic.pdb

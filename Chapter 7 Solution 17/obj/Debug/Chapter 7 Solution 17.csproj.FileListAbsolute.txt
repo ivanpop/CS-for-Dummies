@@ -4,3 +4,11 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\bin\Debug\Ch
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.pdb
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\bin\Debug\Chapter 7 Solution 17.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\bin\Debug\Chapter 7 Solution 17.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\bin\Debug\Chapter 7 Solution 17.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 7 Solution 17\obj\Debug\Chapter 7 Solution 17.pdb

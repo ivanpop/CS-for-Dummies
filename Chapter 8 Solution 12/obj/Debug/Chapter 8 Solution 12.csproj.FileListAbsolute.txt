@@ -4,3 +4,11 @@ C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\Ar
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.exe
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.pdb
 C:\Users\Ivan\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\Chapter 8 Solution 12.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.exe.config
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\bin\Debug\ArabitToRoman.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\Chapter 8 Solution 12.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\Chapter 8 Solution 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\Chapter 8 Solution 12.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\ArabitToRoman.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 8 Solution 12\obj\Debug\ArabitToRoman.pdb
