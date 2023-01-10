@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\bin\Debug\netcoreapp3.1\Chapter 13 Solution 26.exe
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\bin\Debug\netcoreapp3.1\Chapter 13 Solution 26.deps.json
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\bin\Debug\netcoreapp3.1\Chapter 13 Solution 26.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\bin\Debug\netcoreapp3.1\Chapter 13 Solution 26.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\bin\Debug\netcoreapp3.1\Chapter 13 Solution 26.dll
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\bin\Debug\netcoreapp3.1\Chapter 13 Solution 26.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.dll
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.pdb
+C:\Users\user\Documents\GitHub\CS-for-Dummies\Chapter 13 Solution 26\obj\Debug\netcoreapp3.1\Chapter 13 Solution 26.genruntimeconfig.cache
